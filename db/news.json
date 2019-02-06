@@ -1,0 +1,40 @@
+{
+  "News":[
+    {
+  "id":1,
+"title": "Revas - „Pan Tadeusz” podstaw przedsiębiorczości",
+"img": "http://perspektywy.pl/rekrutacja/img/img_01.jpg",
+"link": "http://perspektywy.pl/rekrutacja/link1"
+  },
+  {
+    "id": 2,
+"title": "Genius Universitatis 2019 – zaproszenie dla uczelni!",
+"img": "http://www.perspektywy.pl/rekrutacja/img/img_02.jpg",
+"link": "http://perspektywy.pl/rekrutacja/link2"
+  },
+  {
+    "id": 3,
+"title": "3000 kobiet to dopiero początek!",
+"img": "http://perspektywy.pl/rekrutacja/img/img_03.jpg",
+"link": "http://perspektywy.pl/rekrutacja/link3"
+  },
+  {
+    "id": 4,
+"title": "Centrum Mistrzostwa Informatycznego - szansa dla 12 tysięcy uczniów",
+"img": "http://perspektywy.pl/rekrutacja/img/img_04.jpg",
+"link": "http://perspektywy.pl/rekrutacja/link4"
+  },
+    {
+      "id": 5,
+"title": "Sylwester z pożyczką. W Polsce czy za granicą?",
+"img": "http://perspektywy.pl/rekrutacja/img/img_05.jpg",
+"link": "http://perspektywy.pl/rekrutacja/link5"
+  },
+  {
+    "id": 6,
+"title": "Lekcja technologii z Microsoft",
+"img": "http://perspektywy.pl/rekrutacja/img/img_06.jpg",
+"link": "http://perspektywy.pl/rekrutacja/link6"
+  }
+]
+}
